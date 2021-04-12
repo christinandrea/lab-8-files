@@ -1,0 +1,2 @@
+Kode Data     Nama      JK      TTL     Alamat      Kelurahan   Kecamatan    Kab./Kota      Provinsi    Status 
+DS001  Nana   P   Jakarta, 24 Maret 2001   Reni   Pamulang Barat  Pamulang   Tangerang Selatan   Banten  BM /n
